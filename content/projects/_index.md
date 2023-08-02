@@ -1,5 +1,5 @@
 ---
-title: "projects"
+title: "Projects"
 description: "Maker Projects"
 date: 2023-08-01
 draft: false

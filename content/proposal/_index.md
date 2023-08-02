@@ -1,9 +1,9 @@
 ---
-title: "proposal"
+title: "Proposal"
 description: "Educational Maker Project Proposal: An Instructional Unit"
 date: 2023-08-01
 draft: false
-tags: ["Proposal", "Arduino"]
+tags: ["Proposal", "Arduino", "Instructional Unit"]
 ---
 
 In the instuctional unit proposed below I adapted my existing scratch and makey-makey projects to a new platform, the Arduino microcontroller.  I enjoyed learning more about the Arduino platform.
