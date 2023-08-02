@@ -1,5 +1,5 @@
 ---
-description: "A collection of artifacts and reflections on my educational technology journey at BSU."
+description: "Welcome to my maker portfolio for EDTECH 538"
 paige:
   style: |
     #paige-collections,
@@ -20,7 +20,7 @@ title: "BSU MET Portfolio"
 <div class="container-fluid">
     <div class="justify-content-center row">
         <div class="col col-auto col-lg-7 px-0">
-            <p class="lead text-center">I live in the Treasure Valley of Idaho and work as a test engineer at <a href="https://www.onsemi.com">OnSemi</a>. I help test and design <a href="https://en.wikipedia.org/wiki/Photodiode">photodiodes</a>. When I started the MET program in the spring of 2022 I was working as an IT administrator at an online charter school.  Although my career has switched gears significantly during the course of this program I have found it to be very rewarding.</p>
+            <p class="lead text-center">I live in the Treasure Valley of Idaho and work as a test engineer at <a href="https://www.onsemi.com">OnSemi</a>. I help test and design <a href="https://en.wikipedia.org/wiki/Photodiode">photodiodes</a>. I have adapted this porfolio website from my final MET portfolio but this contains the projects and work from EDTECH 538- Maker Tech: Physical Computing and STEAM Education.</p>
         </div>
     </div>
 </div>
