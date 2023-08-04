@@ -13,7 +13,7 @@ paige:
 title: "BSU Maker Portfolio"
 ---
 
-<p>{{% paige/image alt="Jason atop Mt. Shuksan" title="Jason atop Mt. Shuksan" class="object-fit-cover rounded-4" fetchpriority="high" height="20rem" loading="eager" process="webp" src="splash.jpg" width="100%" %}}</p>
+<p>{{% paige/image alt="Jason on the run." title="Jason running near Bend, Oregon." class="object-fit-cover rounded-4" fetchpriority="high" height="20rem" loading="eager" process="webp" src="splash.jpg" width="100%" %}}</p>
 
 
 <p class="display-5 fw-bold h2 text-center">Hi, there! I’m Jason Sandidge.</p>
