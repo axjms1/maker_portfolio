@@ -7,7 +7,7 @@ tags: ["Projects", "Scratch"]
 ---
 **Project Link:** [Pacing Lion](https://scratch.mit.edu/projects/872344359)
 
-<p><iframe src="https://scratch.mit.edu/projects/872344359/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe></p>
+<p><iframe src="https://scratch.mit.edu/projects/872344359/embed" allowtransparency="true" width="100%" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe></p>
 
 **Project Code:**
 {{< paige/gallery align="center" >}}

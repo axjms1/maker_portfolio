@@ -6,7 +6,7 @@ draft: false
 tags: ["Projects", "Scratch"]
 ---
 **Project Link:** [Pressure Under Water](https://scratch.mit.edu/projects/873239306)
-<p><iframe src="https://scratch.mit.edu/projects/873239306/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen text-align: center></iframe></p>
+<p><iframe src="https://scratch.mit.edu/projects/873239306/embed" allowtransparency="true" width="100%" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe></p>
 
 **Project Code:**
 {{< paige/gallery align="left" >}}

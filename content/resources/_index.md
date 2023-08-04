@@ -13,6 +13,7 @@ tags: ["Resources"]
 **Makey-Makey**
 * [Makey-Makey](https://makeymakey.com/ "Official site")
 * [Project Ideas](https://www.instructables.com/teachers/makeymakey/projects/ "Instructables.com")
+* [Simple Circuits Challenge](https://makeymakey.com/blogs/how-to-instructions/simple-circuits-challenge "Makey-Makey Blog")
 
 **Arduino**
 * [Arduino Home](https://www.arduino.cc/ "Arduino")
