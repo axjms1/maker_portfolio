@@ -94,6 +94,12 @@ name = "Tags"
 url = "/tags/"
 weight = 70
 
+[[languages.en.menu.main]]
+identifier = "search"
+name = "Search"
+url = "/search/"
+weight = 80
+
 [outputs]
 home = ["html", "json", "rss"]
 
